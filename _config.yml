@@ -1,0 +1,92 @@
+title: Elyt
+description: >- # this means to ignore newlines until "baseurl:"
+  Elyt
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# host: 0.0.0.0
+# port: 4000
+elyturl: "https://elyt-dev.26man.com"
+
+nav:
+  - text: Home
+    link: /
+  - text: Influencers
+    link: /influencers
+  - text: Explore
+    link: /explore
+  - text: Events
+    link: /events
+
+footer_text: The world's first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.
+footer_elyt_inc: © 2021 Elyt Networks, Inc
+footer_privacy_terms: Privacy Policy | Terms of Service
+footer_cta_link: mailto:info@valensas.com
+footer_company_title: Company
+footer_explore_title: Explore
+footer_join_community_title: Join the Community
+footer_company_nav:
+  - text: About
+    link: /about
+  - text: Mission & Terms
+    link: /mission-terms
+  - text: Our blog
+    link: /our-blog
+  - text: Services
+    link: /services
+  - text: We're hiring
+    link: /hiring
+footer_explore_nav_1:
+  - text: Art
+    link: /art
+  - text: Photography
+    link: /photography
+  - text: Games
+    link: /games
+  - text: Metaverses
+    link: /metaverses
+  - text: Memes
+    link: /memes
+footer_explore_nav_2:
+  - text: Help Center
+    link: /help-center
+  - text: Blog
+    link: /blog
+  - text: Newsletter
+    link: /newsletter
+  - text: Partners
+    link: /partners
+footer_join_community_nav:
+  - text: Discord
+    link: https://discord.gg/WZWgAtCN
+  - text: Twitter
+    link: https://twitter.com/Elyt_Social
+  - text: Instagram
+    link: https://instagram.com/Elyt_Social
+  - text: Reddit
+    link: https://reddit.com/r/Elyt_Social
+  - text: Medium
+    link: https://medium.com/@ELYT_Social
+footer_privacy_terms_link: /privacy-terms
+
+collections:
+  projects:
+    output: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+include: [".well-known"]
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

@@ -1,0 +1,49 @@
+@import "_variables";
+
+.topbar-link {
+  a {
+    font-weight: 700;
+    text-decoration: none;
+    color: black !important;
+    cursor: pointer;
+    margin: 0rem 1.3rem;
+  }
+}
+
+.topbar-link:hover {
+  color: $elyt-purple !important;
+}
+
+.topbar-link:active {
+  color: $elyt-dark-purple;
+}
+
+.elyt-logo {
+  margin: 1rem auto 0rem auto;
+}
+
+.search-icon:hover,
+.globe-icon:hover,
+.user-icon:hover {
+  cursor: pointer;
+}
+
+.navbar {
+  padding-top: 2px !important;
+  font-size: 14px;
+  padding-bottom: 2px !important;
+  border-bottom: 2px solid rgba(167, 106, 207, 0.25);
+}
+
+.active-link {
+  color: $elyt-active-link;
+}
+
+.elyt-profile-button {
+  padding: 3px 12px 3px 3px !important;
+  max-height: 32px !important;
+
+  .profile-pic {
+    border-radius: 13px !important;
+  }
+}

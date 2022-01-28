@@ -1,0 +1,69 @@
+@import "_variables";
+
+.footer {
+  color: white;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  display: flex !important;
+  justify-content: center !important;
+  font-size: 14px !important;
+}
+
+.footer.bottom {
+  background-color: $elyt-footer-bottom-bg;
+}
+
+.footer.top {
+  background-color: $elyt-footer-top-bg;
+}
+
+.footer-text {
+  color: $elyt-footer;
+
+  a {
+    text-decoration: none;
+    color: $elyt-footer;
+  }
+}
+
+.footer-dark-text {
+  color: $elyt-footer-dark;
+  a {
+    text-decoration: none;
+    color: $elyt-footer-dark;
+  }
+}
+
+.footer-email-btn {
+  display: inline;
+}
+
+.footer-email-btn {
+  float: right;
+}
+
+.footer-links-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.footer-email-input {
+  width: 75% !important;
+  display: inline !important;
+  background-color: transparent !important;
+  color: $elyt-placeholder-dark !important;
+  border-color: $elyt-placeholder-dark !important;
+}
+
+.footer-send-btn {
+  float: right !important;
+  width: 25% !important;
+  background-color: $elyt-purple !important;
+  border-color: $elyt-purple !important;
+}
+
+.footer-text.link:hover {
+  color: $elyt-purple;
+}

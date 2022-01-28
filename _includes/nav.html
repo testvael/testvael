@@ -1,0 +1,42 @@
+<header>
+  <div class="topbar navbar navbar-expand-lg navbar-light bg-light" id="navbar">
+    <div
+      aria-controls="topbar-hamburger"
+      aria-label="Toggle navigation"
+      class="hamburger-toggle w-100 navbar-toggler collapsed"
+    >
+      <div class="d-flex flex-row justify-content-between my-2"></div>
+    </div>
+    <div class="navbar-collapse collapse" id="topbar-hamburger">
+      <div class="d-flex w-100">
+        <div class="container-fluid">
+          <div class="align-items-center row">
+            <div class="col">
+              <div class="my-3 navbar-nav navbar-nav-scroll">
+                {% for item in site.nav %}
+                <div class="topbar-link">
+                  <a
+                    class="{% if page.url == item.link %} active {% endif %}"
+                    href="{{site.elyturl}}{{item.link}}"
+                    >{{item.text}}</a
+                  >
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+            <div class="d-flex justify-content-center col">
+              <a class="link-image" href="/">
+                <img
+                  src="/img/elyt-logo.png"
+                  style="width: 179px; height: 31px"
+                  alt="elyt logo"
+                />
+              </a>
+            </div>
+            <div class="col"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

@@ -1,0 +1,218 @@
+.topbar-link a {
+  font-weight: 700;
+  text-decoration: none;
+  color: black !important;
+  cursor: pointer;
+  margin: 0rem 1.3rem; }
+
+.topbar-link:hover {
+  color: #a76acf !important; }
+
+.topbar-link:active {
+  color: purple; }
+
+.elyt-logo {
+  margin: 1rem auto 0rem auto; }
+
+.search-icon:hover,
+.globe-icon:hover,
+.user-icon:hover {
+  cursor: pointer; }
+
+.navbar {
+  padding-top: 2px !important;
+  font-size: 14px;
+  padding-bottom: 2px !important;
+  border-bottom: 2px solid rgba(167, 106, 207, 0.25); }
+
+.active-link {
+  color: #bb52b0; }
+
+.elyt-profile-button {
+  padding: 3px 12px 3px 3px !important;
+  max-height: 32px !important; }
+  .elyt-profile-button .profile-pic {
+    border-radius: 13px !important; }
+
+.footer {
+  color: white;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  display: flex !important;
+  justify-content: center !important;
+  font-size: 14px !important; }
+
+.footer.bottom {
+  background-color: #2d224d; }
+
+.footer.top {
+  background-color: #3a2969; }
+
+.footer-text {
+  color: #a9b1e4; }
+  .footer-text a {
+    text-decoration: none;
+    color: #a9b1e4; }
+
+.footer-dark-text {
+  color: #545b98; }
+  .footer-dark-text a {
+    text-decoration: none;
+    color: #545b98; }
+
+.footer-email-btn {
+  display: inline; }
+
+.footer-email-btn {
+  float: right; }
+
+.footer-links-list {
+  list-style-type: none;
+  padding-left: 0; }
+
+.footer-email-input {
+  width: 75% !important;
+  display: inline !important;
+  background-color: transparent !important;
+  color: #5e479d !important;
+  border-color: #5e479d !important; }
+
+.footer-send-btn {
+  float: right !important;
+  width: 25% !important;
+  background-color: #a76acf !important;
+  border-color: #a76acf !important; }
+
+.footer-text.link:hover {
+  color: #a76acf; }
+
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+html,
+body {
+  padding: 0;
+  margin: 0;
+  line-height: 1.5715;
+  font-variant: tabular-nums;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column; }
+
+main {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1; }
+
+section {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1; }
+
+img {
+  max-width: 100%; }
+
+.sticky-nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  z-index: 1500; }
+
+.section-subtitle {
+  font-weight: 200; }
+
+.terms__single h1:first-of-type {
+  text-transform: uppercase;
+  color: #2c3e50; }
+
+.quote::before {
+  left: -10px !important;
+  display: inline-block;
+  position: relative;
+  vertical-align: top;
+  top: 0px; }
+
+.quote::after {
+  display: inline-block;
+  vertical-align: bottom;
+  position: relative;
+  right: -10px;
+  top: 0px; }
+
+/* CUSTOMIZE THE CAROUSEL
+  -------------------------------------------------- */
+.carousel {
+  margin-bottom: 4rem; }
+  @media (max-width: 768px) {
+    .carousel {
+      margin-bottom: 2rem; } }
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10; }
+
+.carousel-item {
+  padding: 1rem 0 2rem 0;
+  border-bottom: solid 1px #d9d9d9; }
+  @media (min-width: 768px) {
+    .carousel-item .projects__hero {
+      padding: 3rem 0; } }
+
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem; }
+
+.carousel-item .row {
+  height: 320px; }
+
+.projects__hero {
+  height: 400px; }
+
+@media (max-width: 767px) {
+  .carousel-item .row {
+    height: 250px; }
+
+  .supportimage {
+    visibility: hidden; }
+
+  .casestudiesinner {
+    min-height: 100px;
+    max-height: 150px; }
+
+  .casestudiesinner .row {
+    min-height: 100px;
+    max-height: 150px;
+    padding: 0; }
+
+  .casestudiesimage {
+    visibility: hidden; }
+
+  .projects__hero {
+    height: 320px; } }
+.carousel-indicators {
+  bottom: -46px !important; }
+
+.app-icon {
+  max-width: 100px; }
+
+.carousel-indicators li {
+  height: 10px;
+  width: 10px;
+  background-color: #a5a5a5;
+  border-radius: 50%;
+  margin-right: 7px; }
+
+@media (min-width: 40em) {
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4; } }
+small {
+  font-size: 80%; }
