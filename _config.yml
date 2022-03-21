@@ -1,6 +1,6 @@
-title: Elyt
+title: ELYT
 description: >- # this means to ignore newlines until "baseurl:"
-  Elyt
+  ELYT
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # host: 0.0.0.0
@@ -20,52 +20,49 @@ nav:
 footer_text: The world's first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.
 footer_elyt_inc: © 2021 Elyt Networks, Inc
 footer_privacy_terms: Privacy Policy | Terms of Service
-footer_cta_link: mailto:info@valensas.com
-footer_company_title: Company
-footer_explore_title: Explore
-footer_join_community_title: Join the Community
-footer_company_nav:
-  - text: About
-    link: /about
-  - text: Mission & Terms
-    link: /mission-terms
-  - text: Our blog
-    link: /our-blog
-  - text: Services
-    link: /services
-  - text: We're hiring
-    link: /hiring
-footer_explore_nav_1:
-  - text: Art
-    link: /art
-  - text: Photography
-    link: /photography
-  - text: Games
-    link: /games
-  - text: Metaverses
-    link: /metaverses
-  - text: Memes
-    link: /memes
-footer_explore_nav_2:
-  - text: Help Center
-    link: /help-center
-  - text: Blog
-    link: /blog
-  - text: Newsletter
-    link: /newsletter
-  - text: Partners
-    link: /partners
-footer_join_community_nav:
-  - text: Discord
-    link: https://discord.gg/WZWgAtCN
-  - text: Twitter
-    link: https://twitter.com/Elyt_Social
-  - text: Instagram
-    link: https://instagram.com/Elyt_Social
-  - text: Reddit
-    link: https://reddit.com/r/Elyt_Social
-  - text: Medium
-    link: https://medium.com/@ELYT_Social
+
+footer_links:
+  - title: Company
+    content:
+      - text: About
+        link: /welcome
+      - text: We're hiring
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSdBC2_UIRTAypA4M4dAQimc_VxdyI1-EZfvhL4Xzehxj5RnCw/viewform"
+  - title: Explore
+    content:
+      - text: Decks
+        link: https://elyt-dev.26man.com/explore?types=deck
+      - text: Cards
+        link: https://elyt-dev.26man.com/explore?types=card
+      - text: Gifts
+        link: https://elyt-dev.26man.com/explore?types=gift
+      - text: NFTs for Free
+        link: https://elyt-dev.26man.com/explore?free=true
+      - text: NFTs with Serial
+        link: https://elyt-dev.26man.com/explore?serial=true
+  - title: Resources
+    content:
+      - text: FAQ
+        link: /faq
+      - text: Request Help
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSeNEwcPNwi2uT_NZ3qu66psOyu0J-CMlKWN6euiuKPsfwX2cg/viewform?usp=send_form"
+      - text: Bug Bounty
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSeZNIvxKcFAtmpBttwko-cmGLCf69vVGX8cRg3_pFzrRQp6VA/viewform?usp=send_form"
+      - text: Suggestion
+        link: "https://docs.google.com/forms/d/e/1FAIpQLScYl_EplrxCE4LpLfzGy-V-YhrGABH7J9q6IoKvX9Sj0gw2Fg/viewform?usp=send_form"
+  - title: Join the Community
+    content:
+      - text: Discord
+        link: https://discord.gg/WZWgAtCN
+      - text: Twitter
+        link: https://twitter.com/Elyt_Social
+      - text: Instagram
+        link: https://instagram.com/Elyt_Social
+      - text: Reddit
+        link: https://reddit.com/r/Elyt_Social
+      - text: Medium
+        link: https://medium.com/@ELYT_Social
+
 footer_privacy_terms_link: /privacy-terms
 
 collections:

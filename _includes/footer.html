@@ -12,10 +12,11 @@
           <br />
           <small class="footer-text"> {{site.footer_text}} </small>
         </div>
+        {% for column in site.footer_links %}
         <div class="col-lg-2">
-          <h4 style="color: white">{{site.footer_company_title}}</h4>
+          <h4 style="color: white">{{column.title}}</h4>
           <ul class="footer-links-list">
-            {% for item in site.footer_company_nav %}
+            {% for item in column.content %}
             <li>
               <small class="footer-text link"
                 ><a href="{{item.link}}">{{item.text}}</a></small
@@ -24,42 +25,7 @@
             {% endfor %}
           </ul>
         </div>
-        <div class="col-lg-2">
-          <h4 style="color: white">{{site.footer_explore_title}}</h4>
-          <ul class="footer-links-list">
-            {% for item in site.footer_explore_nav_1 %}
-            <li>
-              <small class="footer-text link"
-                ><a href="{{item.link}}">{{item.text}}</a></small
-              >
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="col-lg-2">
-          <h4 style="color: white">{{site.footer_explore_title}}</h4>
-          <ul class="footer-links-list">
-            {% for item in site.footer_explore_nav_2 %}
-            <li>
-              <small class="footer-text link"
-                ><a href="{{item.link}}">{{item.text}}</a></small
-              >
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="col-lg-3">
-          <h4 style="color: white">{{site.footer_join_community_title}}</h4>
-          <ul class="footer-links-list">
-            {% for item in site.footer_join_community_nav %}
-            <li>
-              <small class="footer-text link"
-                ><a href="{{item.link}}">{{item.text}}</a></small
-              >
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
+        {% endfor %}
       </div>
     </div>
     <div class="footer bottom container-fluid">
