@@ -3,17 +3,23 @@
   {% include head.html %}
   <body>
     {% include nav.html %}
-    <main role="main">
-        {{ content }}
-        {% include footer.html %}
-    </main>
+    <main role="main">{{ content }} {% include footer.html %}</main>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
     <script>
-      window.onscroll = function() {myFunction()};
+      window.onscroll = function () {
+        myFunction();
+      };
       var navbar = document.getElementById("navbar");
       var sticky = navbar.offsetTop;
       function myFunction() {
         if (window.pageYOffset > sticky) {
-          navbar.classList.add("sticky-nav")
+          navbar.classList.add("sticky-nav");
         } else {
           navbar.classList.remove("sticky-nav");
         }

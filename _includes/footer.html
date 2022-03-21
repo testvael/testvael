@@ -1,26 +1,38 @@
 <footer>
   <div class="d-flex flex-column">
     <div class="footer top container-fluid">
-      <div style="width: 70%" class="row">
-        <div style="padding-right: 1rem" class="col-lg-2">
+      <div class="row px-4">
+        <div
+          class="col-lg-4 mx-auto mb-4"
+          style="
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            padding-right: 1rem;
+          "
+        >
           <img
             src="/img/footer-logo.png"
             style="width: 124px; height: 21px"
             alt="elyt logo"
+            class="mx-auto text-align-center"
           />
-          <br />
-          <br />
+          <div style="margin-bottom: 1rem"></div>
           <small class="footer-text"> {{site.footer_text}} </small>
         </div>
         {% for column in site.footer_links %}
-        <div class="col-lg-2">
-          <h4 style="color: white">{{column.title}}</h4>
+        <div class="col-lg-2 col-6">
+          <h4 style="color: white" class="footer-title">{{column.title}}</h4>
           <ul class="footer-links-list">
             {% for item in column.content %}
             <li>
               <small class="footer-text link"
-                ><a href="{{item.link}}">{{item.text}}</a></small
-              >
+                ><a href="{{item.link}}">
+                  <i class="{{item.icon}} icon-white"></i>
+                  {{item.text}}</a
+                >
+              </small>
             </li>
             {% endfor %}
           </ul>
@@ -33,8 +45,6 @@
         <div class="col">
           <small class="footer-dark-text"> {{site.footer_elyt_inc}} </small>
         </div>
-        <div class="col"></div>
-        <div class="col"></div>
         <div class="col">
           <small class="footer-dark-text">
             <a href="{{site.footer_privacy_terms_link}}"

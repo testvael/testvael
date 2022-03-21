@@ -1,0 +1,82 @@
+// media queries
+@mixin n {
+  @media only screen and (max-width: 1440px) {
+    @content;
+  }
+}
+
+@mixin w {
+  @media only screen and (max-width: 1419px) {
+    @content;
+  }
+}
+
+@mixin x {
+  @media only screen and (max-width: 1339px) {
+    @content;
+  }
+}
+
+@mixin d {
+  @media only screen and (max-width: 1179px) {
+    @content;
+  }
+}
+
+@mixin t {
+  @media only screen and (max-width: 992px) {
+    @content;
+  }
+}
+
+@mixin m {
+  @media only screen and (max-width: 767px) {
+    @content;
+  }
+}
+
+@mixin a {
+  @media only screen and (max-width: 639px) {
+    @content;
+  }
+}
+
+@mixin sm {
+  @media only screen and (max-width: 575px) {
+    @content;
+  }
+}
+
+@mixin s {
+  @media only screen and (max-width: 474px) {
+    @content;
+  }
+}
+
+// fonts
+@mixin fi {
+  font-family: "Inter", sans-serif;
+}
+
+@mixin fp {
+  font-family: "Poppins", sans-serif;
+}
+
+@mixin fs_sb {
+  font-family: "Source Serif Pro", serif;
+  font-weight: 700;
+}
+
+@mixin fs {
+  font-family: "Source Serif Pro", serif;
+
+  font-weight: 300;
+}
+
+@mixin elyt-text($fontSize: 1rem, $fontWeight: 400, $fontColor: black) {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: $fontWeight;
+  font-size: $fontSize;
+  color: $fontColor !important;
+}

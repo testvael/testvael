@@ -17,7 +17,7 @@ nav:
   - text: Events
     link: /events
 
-footer_text: The world's first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.
+footer_text: A real business model to connect influencers, communities and brands together with the utilization of NFTs. Floor Price will be never a problem again! Enjoy the future NFT World.
 footer_elyt_inc: © 2021 Elyt Networks, Inc
 footer_privacy_terms: Privacy Policy | Terms of Service
 
@@ -54,14 +54,19 @@ footer_links:
     content:
       - text: Discord
         link: https://discord.gg/WZWgAtCN
+        icon: fa-brands fa-discord
       - text: Twitter
         link: https://twitter.com/Elyt_Social
+        icon: fa-brands fa-twitter
       - text: Instagram
         link: https://instagram.com/Elyt_Social
+        icon: fa-brands fa-instagram
       - text: Reddit
         link: https://reddit.com/r/Elyt_Social
+        icon: fa-brands fa-reddit
       - text: Medium
         link: https://medium.com/@ELYT_Social
+        icon: fa-brands fa-medium
 
 footer_privacy_terms_link: /privacy-terms
 
