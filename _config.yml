@@ -25,7 +25,7 @@ footer_links:
   - title: Company
     content:
       - text: About
-        link: /welcome
+        link: /
       - text: We're hiring
         link: "https://docs.google.com/forms/d/e/1FAIpQLSdBC2_UIRTAypA4M4dAQimc_VxdyI1-EZfvhL4Xzehxj5RnCw/viewform"
   - title: Explore
