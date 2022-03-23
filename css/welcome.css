@@ -37347,6 +37347,7 @@ header .header3 .menu {
     z-index: 9999;
   }
   header .header3 .mobile-right-menu {
+    z-index: 2;
     display: inline;
   }
   header .header3 .mobile-right-menu a {
