@@ -6,9 +6,9 @@ lang-ref: faq
 permalink: /faq/
 ---
 
-**ELYT Frequently Asked Questions / Last Updated: 17.03.2022**
+**ELYT Sıkça Sorulan Sorular / Güncelleme: 17.03.2022**
 
-**What is ELYT?**
+**ELYT nedir?**
 ELYT, Web3 teknolojilerini kullanan yeni nesil bir kazanım ve pazarlama aracıdır. Avalanche Blockchain Platformu ile uyumlu şekilde geliştirilen ELYT, NFT’leri kullanarak Influencer, Kullanıcılar ve Markalar arasında bir ağ oluşturur.
 
 **ELYT’i farklı kılan nedir?**
