@@ -6,131 +6,146 @@ lang-ref: faq
 permalink: /faq/
 ---
 
-**ELYT Sıkça Sorulan Sorular / Güncelleme: 17.03.2022**
+**ELYT Frequently Asked Questions / Update: 09.05.2022**
 
-**ELYT nedir?**
-ELYT, Web3 teknolojilerini kullanan yeni nesil bir kazanım ve pazarlama aracıdır. Avalanche Blockchain Platformu ile uyumlu şekilde geliştirilen ELYT, NFT’leri kullanarak Influencer, Kullanıcılar ve Markalar arasında bir ağ oluşturur.
+**What is ELYT?**
+ELYT is a new generation of earning, customer loyalty and marketing platform. ELYT creates a connection between Influencer, Users and Brands. ELYT utilizes some Web3 technologies with a  unique approach and uses NFTs.
 
-**ELYT’i farklı kılan nedir?**
-ELYT, özgün iş modeli ile NFT’lerin zaman için değer kaybı problemini çözer. Aynı zamanda bir kripto cüzdan sahibi olmayan kullanıcıların dahi sosyal medya hesapları ile sisteme bağlanarak NFT sahibi olmasını ve bu NFT’ler ile sistem üzerinde izin verilen işlemleri gerçekleştirmesini mümkün kılar.
+**What makes ELYT different?**
+With a distinctive business model, ELYT solves the problem of a falling floor price of NFTs. In addition, ELYT allows any user to create a profile account without requiring a cryptocurrency wallet. Users can acquire NFTs and conduct transactions on ELYT. This innovative method, ELYT, builds a bridge between Web2 and Web3.
 
-**ELYT üzerinde hesap nasıl açılır?**
-ELYT hesabı açmak için farklı seçenekler sunulmaktadır. Facebook, Twitch, Youtube (Google) veya E-posta hesaplarınızdan birisini kullanarak ELYT’e bağlanabilirsiniz. Aynı zamanda [Metamask](https://metamask.io/) hesabınız ile de ELYT’e bağlanmak ve bir profil oluşturmak mümkündür.
+**How to open an account on ELYT?**
+There are multiple ways to open an ELYT account. You can connect to ELYT with one of your recent accounts, such as Facebook, Twitch, YouTube (Google), Discord, Twitter, your email address, or your mobile phone number. You can also connect to ELYT with your [Metamask](https://metamask.io) account and create a profile.
 
-**ELYT hesabıma diğer sosyal medya / Metamask hesaplarımı nasıl tanımlarım?**
-ELYT hesabınızı herhangi bir bağlantı seçeneği ile oluşturduktan sonra hesap yönetim sayfanızın altında yer alan [My Social Accounts](https://elytnet/profile/social-accounts) bölümünü kullanarak diğer hesaplarınızı tanımlayabilirsiniz.
+**How do I add my other social media / Metamask accounts to my ELYT account?**
+After creating your ELYT account with any option, you can define your other accounts by using the [My Social Accounts] (https://elyt.net/profile/social-accounts) section at the bottom of your account management page.
 
-**ELYT Profilimi nasıl düzenleyebilirim?**
-ELYT hesabınıza giriş yatıktan sonra hesap yönetim sayfanızın altında yer alan [Profile](https://elyt.net/profile/me) bölümünü kullanarak hesap detaylarınızı tanımlayabilirsiniz.
+**How can I edit my ELYT Profile?**
+After logging into your ELYT account, you can define your account details by using the [Profile](https://elyt.net/profile/me) section at the bottom of your account management page.
 
-**ELYT altında nasıl NFT’ler yer alıyor?**
-ELYT kendi NFT’leri haricinde, Influencer ve Markalar ile çalışarak sizlere pek çok farklı NFT seçeneği sunar.
+**What kind of NFTs are included under ELYT?**
+Apart from its own NFTs, ELYT offers you many different NFT options by working with Influencers and Brands.
 
-Nu NFT seçenekleri: Paketler, Kartlar ve Hediyeler olarak üç temel kategoriye ayrılmıştır.
+Those NFT options are divided into three basic categories: Decks, Cards, and Gifts.
 
-Paketler çeşitli kartlar içerir ve bu kartlar ile oluşturulan koleksiyonlar ile hediyeler alınabilir.
+The decks contain various cards and gifts can be bought with the collections created with these cards.
 
-**ELYT üzerindeki Influencer ve Markaları nasıl bulabilirim?**
-ELYT ana menüsünde bulunan [Influencers](https://elyt.net/influencers) seçeneğinden platform üzerindeki tüm Influencer ve Markalara ulaşabilirsiniz.
+**How can I find Influencers and Brands on ELYT?**
+You can access all Influencers and Brands on the platform from the [Influencers] (https://elyt.net/influencers) option in the ELYT main menu.
 
-**ELYT üzerindeki NFT’leri nasıl keşfedebilirim?**
-ELYT ana menüsünde bulunan [Keşfet](https://elyt.net/explore) seçeneği ile platform üzerindeki tüm NFT’leri keşfedebilirsiniz.
+**How can I discover NFTs on ELYT?**
+You can explore all NFTs on the platform with the [Explore](https://elyt.net/explore) option in the ELYT main menu.
 
-**ELYT üzerinde nasıl NFT sahibi olabilirim?**
-ELYT üzerinde NFT sahibi olmak için çeşitli yöntemler bulunmaktadır;
-- Çeşitli Twitch kanallarını takip ederek ücretsiz şekilde
-- Çeşitli Twitch kanallarına abone olarak ücretsiz şekilde
-- Çeşitli Youtube kanallarına abone olarak ücretsiz şekilde
-- Seri Kodu girerek ücretsiz şekilde
-- AVAX ile ödeme yaparak ücretli şekilde
+**How can I have NFT on ELYT?**
+There are various methods to have NFT on ELYT;
+- Follow various Twitch channels to get free decks
+- Subscribe to various Twitch channels to get free decks
+- Subscribing to various Youtube channels to get free decks
+- Use Serial Codes to get free decks
+- Pay with AVAX to buy decks
 
-**Ücretsiz NFT’ler için Seri Kodlarını nereden alacağım?**
-Seri Kodları çeşitli etkinliklerde, canlı yayınlarda veya farklı platformlar üzerindeki yöntemler ile dağıtılmaktadır.
+**Where do I get Serial Codes for free NFTs**
+Serial Codes are distributed at a variety of events, live broadcasts, and via various platforms.
 
-**Hangi Twitch veya Youtube kanalların ücretsiz NFT kazandırdığını nasıl bulabilirim?**
-ELYT altında yer alan Keşfet bölümünde, sol taraftaki filtreden Ücretsiz NFT’leri işaretleyerek veya doğrudan [bu linki](https://elyt.net/explore?free=true) kullanarak ELYT üzerindeki tüm ilgili ücretsiz NFT’leri görüntüleyebilirsiniz.
+**How can I find out which Twitch or Youtube channels earn free NFT?**
+In the Explore section under ELYT, you can view all relevant free NFTs on ELYT by ticking Free NFTs in the left hand filter or directly using [this link](https://elyt.net/explore?free=true).
 
-**AVAX ile satılan bir NFT satın almak için ne yapmalıyım?**
-ELYT Profil sayfanız altında yer alan [Cüzdanım](https://elyt.net/profile/wallet) bölümüne girmelisiniz. Burada iki farklı seçenek ile platformdaki hesabınıza AVAX yatırabilirsiniz.
-- Metamask hesabınız bağladıysanız doğrudan transfer ederek
-- Deposit seçeneği ile herhangi bir Avalanche C-Chain adresinden gönderim yaparak.
+**What should I do to purchase an NFT sold with AVAX?**
+You must enter the [My Wallet](https://elyt.net/profile/wallet) section under your ELYT Profile page. Here you can deposit AVAX to your account on the platform with two different options.
+- By transferring directly if you have linked your Metamask account
+- By sending from any Avalanche C-Chain address with the deposit option.
 
-**Kripto Para Borsalarından ELYT’e doğrudan AVAX transferi yapabilir miyim?**
-Evet, yapabilirsiniz. Ancak gönderim yapacağınız kripto para borsasının Avalanche C-Chain desteği olduğundan emin olmalısınız. ELYT şu anda Avalanche X-Chain üzerinden AVAX transferine izin vermemektedir.
+**Can I transfer AVAX directly from Cryptocurrency Exchanges to ELYT?**
+Yes, you can. However, you should make sure that the cryptocurrency exchange you will send to has Avalanche C-Chain support. ELYT currently does not allow AVAX transfers via Avalanche X-Chain.
 
-**Avalanche X-Chain desteklenecek mi?**
-Şu anda Avalanche X-Chain desteklenmemektedir. İleride bu seçenek kullanıcı talepleri doğrultusunda değerlendirilerek hayata geçirilebilir.
+**Will Avalanche X-Chain be supported?**
+Currently, Avalanche X-Chain is not supported. In the future, this option can be evaluated and implemented considering user demands.
 
-**ELYT üzerinde AVAX yatırmak güvenli mi?**
-ELYT altyapısı profesyonel şekilde tasarlanmış ve pek çok denetimden geçirilmiştir. ELYT sıcak ve soğuk cüzdan yapısı titizlikle tasarlanmıştır ve ELYT cüzdanlardaki varlıkların yüzde 85’i soğuk cüzdan altyapısından korunmaktadır. Kullanıcılar diledikleri zaman ELYT cüzdanlarına AVAX yatırabilir ve çekebilir.
+**Will other blockchain networks be supported besides Avalanche?**
+Yes, integration with different blockchain networks will be provided in the future.
 
-**ELYT cüzdan hareketlerimi nerede görebilirim?**
-ELYT Profil sayfanız altında yer alan [My Logs](https://elyt.net/profile/logs) bölümüne girerek tüm cüzdan hareketlerinizi görebilirsiniz?
+**Is it safe to deposit AVAX on ELYT?**
+The infrastructure of ELYT has been designed professionally and has passed numerous audits. The hot and cold wallet structure of ELYT has been meticulously designed, and 85 percent of the assets in ELYT wallets are protected on the cold wallets. Users can deposit and withdraw AVAX at any time to their ELYT wallet.
 
-**ELYT AVAX yatırma ve çekme işlemleri ne kadar sürede gerçekleşir?**
-ELYT AVAX yatırma ve çekme işlemleri bir dakikanın altında gerçekleşmektedir.
+**Where can I see my ELYT wallet transactions?**
+You can see all your wallet activities by entering the [My Logs] (https://elyt.net/profile/logs) section under your ELYT Profile page.
 
-**ELYT üzerinde aldığım NFT Paketleri ile ne yapabilirim?**
-ELYT üzerindeki tüm dijital varlıklar NFT standardında tasarlanmıştır. Satın aldığınız bir NFT Paketi için;
-- NFT Paketinizi açarak içindeki kartları alabilirsiniz.
-- NFT Paketinizi ELYT platformundaki başka bir adrese transfer edebilirsiniz.
-- NFT Paketinizi AVAX ile satış için listeleyebilirsiniz
-- NFT Paketinizi Mintleyebilirsiniz
+**How long does it take to deposit and withdraw ELYT AVAX?**
+ELYT AVAX deposits and withdrawals take less than a minute.
 
-**Açılan bir NFT Paket içinden nasıl kartlar çıkıyor?**
-ELYT üzerindeki her bir NFT Paketi kendisine özgü yapıya sahiptir. Açılan bir NFT Paketi yakılır (artık erişilemez hale gelir) ancak içinden çıkan tüm kartlar yeni birer NFT olarak kullanıcıya tanımlanır. Bu kartlar farklı nadirlik seviyelerinde ve özelliklere sahip olabilirler.
+**What can I do with the NFT Decks I bought on ELYT?**
+All digital assets on ELYT are designed in NFT standard. For an NFT Package you have purchased;
+- You can get the cards inside your NFT Deck by opening it.
+- You can transfer your NFT Deck to another address on the ELYT platform.
+- You can list your NFT Deck for sale with AVAX
+- You Can Mint Your NFT Deck
 
-**ELYT üzerindeki NFT Kartlar ile neler yapabilirim?**
-ELYT üzerindeki tüm dijital varlıklar NFT standardında tasarlanmıştır. Sahip olduğunuz bir NFT Kart için;
-- NFT Kartınızı ELYT platformundaki başka bir adrese transfer edebilirsiniz.
-- NFT Kartınızı AVAX ile satış için listeleyebilirsiniz
-- NFT Kartınızı Mintleyebilirsiniz
-- NFT Kartınızı bir hediye almak için bir koleksiyon yaratmak için kullanabilirsiniz?
+**How do cards come out of an opened NFT Deck?**
+Each NFT Deck on ELYT has a distinct structure. An opened NFT Deck is burned (removed from the system), but all cards that come out of it are identified as a new NFTs for the user. These cards can have varying rarities and properties.
 
-**Hediyeleri almak için koleksiyon oluşturmak ne anlama geliyor?**
-ELYT üzerinde kullanıcılara pek çok hediye seçeneği sunulmaktadır. Bu hediyeleri almak için ELYT kullanıcılarının çeşitli kartlar ile bir koleksiyon oluşturması gerekir. Her hediye sayfasında kullanıcılara o hediyeyi almak için hangi kartlara sahip olması gerektiği ve ellerinde o kartlardan ne kadar olduğu gösterilmektedir.
+**What can I do with NFT Cards on ELYT?**
+All digital assets on ELYT are designed in NFT standard. For an NFT Card you have;
+- You can transfer your NFT Card to another address on the ELYT platform.
+- You can list your NFT Card for sale with AVAX
+- You Can Mint Your NFT Card
+- You can use your NFT Card to create a collection to buy a gift?
 
-**Bir koleksiyonu tamamlamak için eksik kartları nasıl tamamlayabilirim?**
-Eksik kartları tıkladığınızda o kartın detay sayfasına ulaşırsınız. Bu sayfada o kartı içeren paketler listelenir. Bu paketleri sizlere sunulan seçenekler ile alabilirsiniz ve paketleri açarak bu karta ulaşmaya çalışabilirsiniz. Unutmayın her kart her paket içinde yer almaz, kartlar nadirlik seviyelerine göre sınıflandırılmakta ve bir paket içinden hangi kartlardan hangi olasılıklar ile çıkacağı paket sayfalarında gösterilmektedir.
+**What does it mean to create a collection to receive gifts?**
+Many gift options are offered to users on ELYT. To receive these gifts, ELYT users need to create a collection with various cards. On each gift page, users are shown which cards they need to receive that gift and how many of those cards they have.
 
-ELYT kullanıcıları bir koleksiyon tamamlamak için ellerindeki eksik kartları, aynı karta sahip satış gerçekleştiren diğer kullanıcılardan da satın alabilirler.
+**How do I fill in missing cards to complete a collection?**
+When you click on one of the missing cards, you will be taken to the card's detail page. This page lists decks that contain that card. You can purchase these decks using the options provided, and you can try to find this card by opening the decks. Remember that not every card is included in every deck; the cards are classified based on their rarity levels, and the likelihood of which cards will emerge from a deck is displayed on the relevant deck page.
 
-**Bir kart koleksiyonunu tamamladıktan sonra hediyemi nasıl alabilirim?**
-Bir hediye almak için gerekli koleksiyonu tamamladıysanız ilgili hediye sayfasında sizlere o hediyeyi almak için gerekli şartları yerine getirdiğinize dair bilgi verilir ve bu durumda ilgili hediyeyi talep edebilirsiniz. Bu işlem gerçekleştirildiğinde Hediye kullanıcıya bir NFT olarak tanımlanır ve hediyeyi almak için verilen NFT Kartlar yakılır (kullanımdan bütünüyle kaldırılır).
+ELYT users can also complete a collection by purchasing missing cards from other users who have the same card.
 
-**ELYT üzerinde aldığım bir NFT Hediye ile neler yapabilirim?**
-ELYT üzerindeki tüm dijital varlıklar NFT standardında tasarlanmıştır. Sahip olduğunuz bir NFT Hediye için;
-- NFT Hediyenizi, dijital veya fiziksel hediyeye dönüştürebilirsiniz.
-- NFT Hediyenizi ELYT platformundaki başka bir adrese transfer edebilirsiniz.
-- NFT Hediyenizi AVAX ile satış için listeleyebilirsiniz
-- NFT Hediyenizi Mintleyebilirsiniz
+ELYT users can also obtain cards by creating a general purchase order for a missing card and having one of the users holding that card respond to this offer. ELYT functions as an NFT exchange thanks to this feature.
 
-**Hediye NFT’yi nasıl bir dijital veya fiziksel ürüne dönüştürebilirim.**
-Bir Hediye NFT’si kullanıldığı (Redeem işlemi) an itibariyle yakılır (kullanımdan tümüyle kaldırılır) ve bu Hediye NFT’yi kullanan kişiye özel bir kod ve açıklama metni sunulur. Kullanıcı kendisine verilen yönergeleri takip ederek elindeki kod ile dijital veya fiziksel hediyesine ulaşabilir.
+**How do I get my gift after completing a card collection?**
+If you have completed the collection required to receive a gift, you will be notified on the relevant gift page that you have fulfilled the necessary conditions to receive that gift, and you can then request that gift. When this is done, the Gift is identified as an NFT to the user, and the NFT Cards issued to receive the Gift are destroyed (completely removed from the system).
 
-**ELYT üzerindeki çeşitli işlemlerde NFT’ler neden yakılıyor?**
-ELYT, NFT’lere yönelik gerçek bir iş modeli sunmaktadır. Bu iş modeli içinde kendi amacı için kullanılan NFT’ler yakılarak ELYT üzerindeki sınırlı sayıda üretilen NFT’lerin sayısı azaltılmakta böylece geriye kalan NFT’lerin toplam hacmi düştüğü için değerleri yükselmektedir.
+**What can I do with an NFT Gift I bought on ELYT?**
+All digital assets on ELYT are designed in NFT standard. For an NFT Gift you have;
+- You can convert your NFT Gift into a digital or physical gift.
+- You can transfer your NFT Gift to another address on the ELYT platform.
+- You can list your NFT Gift for sale with AVAX
+- You Can Mint Your NFT Gift
 
-**NFT Mintlemek ne anlama geliyor?**
-ELYT üzerindeki NFT’ler NFT standartlarında oluşturulur ancak merkezi bir yapı üzerinde güvenle tutulur. Kullanıcılar bir NFT’yi blockchain ağına taşımak istedikleri takdirde Mintleme işlemi gerçekleştirmeleri gerekir. Mintleme işlemi yapabilmek için Metamask cüzdanınızın ELYT platformuna bağlı olması ve ELYT cüzdan bakiyenizde en az 0,1 AVAX bulunması gerekmektedir. Mintleme işlemi sonrasında ilgili NFT Avalanche Blockchain ağında yaratılır ve Metamask cüzdanınıza çekilebilir.
+**How can I convert a gift NFT into a digital or physical product**
+A Gift NFT is burned (completely removed from the system) as soon as it is used (Redeem), and the person using that Gift NFT is presented with a unique code and description text. The user can reach his digital or physical gift with the code he has by following the instructions given to him.
 
-**Neden bir NFT’yi ELYT platformundan cüzdanıma çekmek isteyeyim?**
-Blockchain ekosisteminin doğası gereği bir kullanıcı sahip olduğu NFT’nin mutlak mülkiyetine sahiptir. ELYT üzerindeki NFT’ler kullanıcılar için ELYT tarafından korunur ve saklanır ancak kullanıcı bu yükümlülüğü kendisi almak isterse bunu yapmakta özgürdür. Dilediği NFT’yi mintleme işlemi sonrası Metamask cüzdanına çekebilir ve dilediği farklı bir platforma taşıyabilir.
+**Why are NFTs burned in various transactions on ELYT?**
+ELYT provides a viable business model for NFTs. The limited number of NFTs will be reduced by burning them after they have served their purpose. As the total volume decreases, we anticipate that this approach will increase the value of the remaining NFTs.
 
-**Metamask cüzdanına çekilen bir NFT tekrar ELYT üzerine nasıl aktarılabilir?**
-İlgili NFT’yi içeren Metamask cüzdanı ile ELYT’e bağlıysanız, o NFT’nin sayfasına giderek sahip olduğunuz NFT’leri gösteren bölümden tekrar ELYT’e yükleme işlemi yapabilirsiniz.
+**What does NFT Mining mean?**
+ELYT NFTs are created in NFT standards but securely stored on a centralized structure. Users must perform Mining in order to migrate an NFT to the blockchain network. To mint, your Metamask wallet must be connected to the ELYT platform and your ELYT wallet balance must be at least 0.1 AVAX. The corresponding NFT is created on the Avalanche Blockchain network after minting and can be withdrawn to your Metamask wallet.
 
-**ELYT üzerinde NFT’ler neden merkezi bir sistemde yaratılıyor ve işlem görüyor?**
-ELYT blockchain dünyasını hiç kullanmamış veya bütünüyle yabancı kullanıcıları, olabilecek en kolay adımlar ile NFT kullanıcısı yapma şansını sunar. Ancak bunu gerçekleştirmek için altyapısının merkezi bir şekilde çalışması gerekiyor. Bununla birlikte ELYT kullanıcılarının tamamına özgür şekilde NFT’lerini mintleyerek platform dışına taşıma imkânı da sunuyor.
+**Why do I need AVAX on my account to Mint NFT?**
+For on-chain transactions, ELYT currently utilizes the Avalanche Blockchain Network. Every transaction that occurs here has a cost. As a result, an NFT Mining transaction incurs a fee of 0.01 AVAX, which is deducted from the account of the user who is minting the NFT.
 
-**ELYT, hangi bilgilerimi kaydediyor?**
-ELYT, profil sayfanızda paylaştığınız bilgileri ve platform üzerindeki işlemlerinize dair bilgileri saklar. Kullanıcı ve Gizlilik Sözleşmelerimizde detaylı bilgilendirmelere erişebilirsiniz.
+**Why would I want to withdraw an NFT from the ELYT platform to my wallet?**
+Because of the nature of the blockchain ecosystem, a user has complete control over his or her NFT. ELYT protects and stores NFTs for users, but the user is free to take this liability. Following the minting process, he/she can withdraw any NFTs to his/her Metamask wallet and perform any transactions on his/her wallet.
 
-**ELYT hesabımın güvenliğini nasıl sağlarım?**
-ELYT’e bağlanırken kullandığınız sosyal medya hesaplarınız, ELYT’e kaydettiğiniz e-posta ile cep telefonu numaranızın ve bağlantı yaptığınızı Metamask hesabınızın kontrolünün sizde olduğundan emin olmalısınız. ELYT, NFT ve AVAX çekimlerinden çift faktörlü doğrulama (2FA) kullanır ancak ELYT’e bağlanmak için kullandığınız sosyal medya hesaplarınız veya Metamask cüzdan hesabınız herhangi bir şekilde kötü niyetli kişiler tarafından ele geçirilirse ELYT hesabınıza erişim hakkı kazanabilirler.
+**How can an NFT withdrawn to Metamask wallet be transferred back to ELYT?**
+If you are connected to ELYT with the Metamask wallet containing the relevant NFT, you can go to that NFT's page and load it back to ELYT from the section showing the NFTs you own.
 
-**ELYT Platformu bir Token sunacak mı?**
-Kısa bir süre içinde ELYT Token yapısı, ekonomisi ve kullanım alanlarına dair detayları paylaşacağız.
+**Why do I get an error when transferring an NFT onto ELYT?**
+On ELYT, NFT transfers are only possible between addresses on the system. If the recipient address to which you want to transfer NFT does not belong to an ELYT account, the transfer will fail. To send NFT to addresses other than ELYT, first mint the relevant NFT, withdraw it to your Metamask wallet, and then send it using the traditional method.
 
-**ELYT Platformu ile nasıl iletişime geçebilirim?**
-Sitemizin en altında yer alan formlar ile bizimle iletişime geçebilir, sorularınızı, önerilerinizi ve problemlerinizi bizimle paylaşabilirsiniz. Ayrıca Telegram ve Discord kanallarımızdaki moderatörlerimiz, online oldukları süre boyunca sizlere yardımcı olacaklardır.
+**Why are NFTs created and traded in a centralized system on ELYT?**
+Millions of people have never used blockchain applications or have a cryptocurrency wallet. ELYT makes it possible for those users to have NFTs in the simplest way possible. However, in order to accomplish this, ELYT infrastructure must function in a custodial manner. Furthermore, ELYT allows all of its users to mint their NFTs and freely move them off the platform.
+
+**What information does ELYT save?**
+ELYT stores the information you share on your profile page and information about your transactions on the platform. You can access detailed information in our User and Confidentiality Agreements.
+
+**How do I secure my ELYT account?**
+You should ensure that you have complete control over your social media accounts, e-mail , mobile phone number and Metamask account. For NFT and AVAX withdrawals, ELYT uses two-factor authentication (2FA), but if your social media accounts or Metamask wallet account that you use to connect to ELYT are compromised in any way, malicious people may gain access to your ELYT account. Similarly, if malicious individuals gain access to your 2FA methods, they will be able to withdraw your assets from the platform. Users are responsible for safeguarding their accounts and 2FA tools.
+
+**Will ELYT Platform offer a Token?**
+In the future, we will share details about the ELYT Token structure, economy and utilization. 
+
+**Will ELYT make an AirDrop?**
+Why not? If we were you, we would create a complete profile and try to do as many transactions as possible ;)
+
+**How can I get in touch with ELYT Platform?**
+You can contact us with the forms at the footer section of our site, and share your questions, suggestions and problems with us. In addition, our moderators in our Telegram and Discord channels will help you while they are online.
+![image](https://user-images.githubusercontent.com/98946131/167364048-151f072f-cff2-4ecc-8ef4-8b4d83195bba.png)
