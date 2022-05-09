@@ -15,7 +15,7 @@ ELYT, Web3 teknolojilerini kullanan yeni nesil bir kazanım ve pazarlama aracıd
 ELYT, özgün iş modeli ile NFT’lerin zaman için değer kaybı problemini çözer. Aynı zamanda bir kripto cüzdan sahibi olmayan kullanıcıların dahi sosyal medya hesapları ile sisteme bağlanarak NFT sahibi olmasını ve bu NFT’ler ile sistem üzerinde izin verilen işlemleri gerçekleştirmesini mümkün kılar.
 
 **ELYT üzerinde hesap nasıl açılır?**
-ELYT hesabı açmak için farklı seçenekler sunulmaktadır. Facebook, Twitch, Youtube (Google) veya E-posta hesaplarınızdan birisini kullanarak ELYT’e bağlanabilirsiniz. Aynı zamanda [Metamask](https://metamask.io/) hesabınız ile de ELYT’e bağlanmak ve bir profil oluşturmak mümkündür.
+ELYT hesabı açmak için farklı seçenekler sunulmaktadır. Facebook, Twitch, Youtube (Google), Discord, Twitter, E-posta veya Mobil telefon numarası seçeneklerinden birisini kullanarak ELYT’e bağlanabilirsiniz. Aynı zamanda [Metamask](https://metamask.io/) hesabınız ile de ELYT’e bağlanmak ve bir profil oluşturmak mümkündür.
 
 **ELYT hesabıma diğer sosyal medya / Metamask hesaplarımı nasıl tanımlarım?**
 ELYT hesabınızı herhangi bir bağlantı seçeneği ile oluşturduktan sonra hesap yönetim sayfanızın altında yer alan [My Social Accounts](https://elytnet/profile/social-accounts) bölümünü kullanarak diğer hesaplarınızı tanımlayabilirsiniz.
@@ -114,11 +114,17 @@ ELYT, NFT’lere yönelik gerçek bir iş modeli sunmaktadır. Bu iş modeli iç
 **NFT Mintlemek ne anlama geliyor?**
 ELYT üzerindeki NFT’ler NFT standartlarında oluşturulur ancak merkezi bir yapı üzerinde güvenle tutulur. Kullanıcılar bir NFT’yi blockchain ağına taşımak istedikleri takdirde Mintleme işlemi gerçekleştirmeleri gerekir. Mintleme işlemi yapabilmek için Metamask cüzdanınızın ELYT platformuna bağlı olması ve ELYT cüzdan bakiyenizde en az 0,1 AVAX bulunması gerekmektedir. Mintleme işlemi sonrasında ilgili NFT Avalanche Blockchain ağında yaratılır ve Metamask cüzdanınıza çekilebilir.
 
+**NFT Mintlemek için neden hesabımda AVAX bulunması gerekiyor?**
+ELYT şu anda zincir üstü (on-chain) işlemler için Avalanche Blockchain Ağını kullanıyor. Burada gerçekleşen her işlemin bir maliyeti bulunuyor. Bu sebeple bir NFT Mintleme işlemi için 0,01 AVAX maliyet ödenmesi gerekiyor ve bu ücret NFT Mintleyen kullanıcı hesabından düşülüyor.
+
 **Neden bir NFT’yi ELYT platformundan cüzdanıma çekmek isteyeyim?**
 Blockchain ekosisteminin doğası gereği bir kullanıcı sahip olduğu NFT’nin mutlak mülkiyetine sahiptir. ELYT üzerindeki NFT’ler kullanıcılar için ELYT tarafından korunur ve saklanır ancak kullanıcı bu yükümlülüğü kendisi almak isterse bunu yapmakta özgürdür. Dilediği NFT’yi mintleme işlemi sonrası Metamask cüzdanına çekebilir ve dilediği farklı bir platforma taşıyabilir.
 
 **Metamask cüzdanına çekilen bir NFT tekrar ELYT üzerine nasıl aktarılabilir?**
 İlgili NFT’yi içeren Metamask cüzdanı ile ELYT’e bağlıysanız, o NFT’nin sayfasına giderek sahip olduğunuz NFT’leri gösteren bölümden tekrar ELYT’e yükleme işlemi yapabilirsiniz.
+
+**ELYT üzerine bir NFT transferi yaparken neden hata alıyorum?**
+ELYT üzerinde NFT trasnferi sadece sistemin kendi üzerindeki adresler arasında yapılabilir. Eğer NFT transfer etmek istediğiniz alıcı adres, ELYT üzerinde bir hesaba ait değilse NFT transferi gerçekleşmez. ELYT dışındaki adreslere NFT transfer etmek için önce ilgili NFT'yi Mintlemeniz, MEtamask cüzdanınıza çekmeniz ve geleneksel şekilde göndermeniz gerekmektedir.
 
 **ELYT üzerinde NFT’ler neden merkezi bir sistemde yaratılıyor ve işlem görüyor?**
 ELYT blockchain dünyasını hiç kullanmamış veya bütünüyle yabancı kullanıcıları, olabilecek en kolay adımlar ile NFT kullanıcısı yapma şansını sunar. Ancak bunu gerçekleştirmek için altyapısının merkezi bir şekilde çalışması gerekiyor. Bununla birlikte ELYT kullanıcılarının tamamına özgür şekilde NFT’lerini mintleyerek platform dışına taşıma imkânı da sunuyor.
@@ -130,7 +136,7 @@ ELYT, profil sayfanızda paylaştığınız bilgileri ve platform üzerindeki i�
 ELYT’e bağlanırken kullandığınız sosyal medya hesaplarınız, ELYT’e kaydettiğiniz e-posta ile cep telefonu numaranızın ve bağlantı yaptığınızı Metamask hesabınızın kontrolünün sizde olduğundan emin olmalısınız. ELYT, NFT ve AVAX çekimlerinden çift faktörlü doğrulama (2FA) kullanır ancak ELYT’e bağlanmak için kullandığınız sosyal medya hesaplarınız veya Metamask cüzdan hesabınız herhangi bir şekilde kötü niyetli kişiler tarafından ele geçirilirse ELYT hesabınıza erişim hakkı kazanabilirler.
 
 **ELYT Platformu bir Token sunacak mı?**
-Kısa bir süre içinde ELYT Token yapısı, ekonomisi ve kullanım alanlarına dair detayları paylaşacağız.
+İlerleyen zaman zarfında ELYT Token yapısı, ekonomisi ve kullanım alanlarına dair detayları paylaşacağız.
 
 **ELYT Platformu ile nasıl iletişime geçebilirim?**
 Sitemizin en altında yer alan formlar ile bizimle iletişime geçebilir, sorularınızı, önerilerinizi ve problemlerinizi bizimle paylaşabilirsiniz. Ayrıca Telegram ve Discord kanallarımızdaki moderatörlerimiz, online oldukları süre boyunca sizlere yardımcı olacaklardır.
