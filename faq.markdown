@@ -148,4 +148,3 @@ Why not? If we were you, we would create a complete profile and try to do as man
 
 **How can I get in touch with ELYT Platform?**
 You can contact us with the forms at the footer section of our site, and share your questions, suggestions and problems with us. In addition, our moderators in our Telegram and Discord channels will help you while they are online.
-![image](https://user-images.githubusercontent.com/98946131/167364048-151f072f-cff2-4ecc-8ef4-8b4d83195bba.png)

@@ -18,7 +18,7 @@ nav:
     link: /events
 
 footer_text: A real business model to connect influencers, communities and brands together with the utilization of NFTs. Floor Price will be never a problem again! Enjoy the future NFT World.
-footer_elyt_inc: © 2021 Elyt Networks, Inc
+footer_elyt_inc: © 2022 Elyt Teknoloji A.Ş.
 footer_privacy_terms: Privacy Policy | Terms of Service
 
 footer_links:
@@ -28,6 +28,14 @@ footer_links:
         link: /
       - text: We're hiring
         link: "https://docs.google.com/forms/d/e/1FAIpQLSdBC2_UIRTAypA4M4dAQimc_VxdyI1-EZfvhL4Xzehxj5RnCw/viewform"
+      - text: FAQ
+        link: /faq
+      - text: Request Help
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSeNEwcPNwi2uT_NZ3qu66psOyu0J-CMlKWN6euiuKPsfwX2cg/viewform?usp=send_form"
+      - text: Bug Bounty
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSeZNIvxKcFAtmpBttwko-cmGLCf69vVGX8cRg3_pFzrRQp6VA/viewform?usp=send_form"
+      - text: Suggestion
+        link: "https://docs.google.com/forms/d/e/1FAIpQLScYl_EplrxCE4LpLfzGy-V-YhrGABH7J9q6IoKvX9Sj0gw2Fg/viewform?usp=send_form"
   - title: Explore
     content:
       - text: Decks
@@ -40,20 +48,24 @@ footer_links:
         link: https://elyt-dev.26man.com/explore?free=true
       - text: NFTs with Serial
         link: https://elyt-dev.26man.com/explore?serial=true
-  - title: Resources
+  - title: Legal
     content:
-      - text: FAQ
-        link: /faq
-      - text: Request Help
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSeNEwcPNwi2uT_NZ3qu66psOyu0J-CMlKWN6euiuKPsfwX2cg/viewform?usp=send_form"
-      - text: Bug Bounty
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSeZNIvxKcFAtmpBttwko-cmGLCf69vVGX8cRg3_pFzrRQp6VA/viewform?usp=send_form"
-      - text: Suggestion
-        link: "https://docs.google.com/forms/d/e/1FAIpQLScYl_EplrxCE4LpLfzGy-V-YhrGABH7J9q6IoKvX9Sj0gw2Fg/viewform?usp=send_form"
+      - text: Terms of Use
+        link: ../legal/a.pdf
+      - text: Privacy Policy
+        link: ../legal/a.pdf
+      - text: Cookie Policy
+        link: ../legal/a.pdf
+      - text: Prohibition of Use
+        link: ../legal/a.pdf
+      - text: E. C. D. Form
+        link: ../legal/a.pdf
+      - text: Legal Disclaimer
+        link: ../legal/a.pdf
   - title: Join the Community
     content:
       - text: Discord
-        link: https://discord.gg/WZWgAtCN
+        link: https://discord.gg/yUuCbCRUWu
         icon: fa-brands fa-discord
       - text: Twitter
         link: https://twitter.com/Elyt_Social
@@ -65,7 +77,7 @@ footer_links:
         link: https://reddit.com/r/Elyt_Social
         icon: fa-brands fa-reddit
       - text: Medium
-        link: https://medium.com/@ELYT_Social
+        link: https://elyt-social.medium.com
         icon: fa-brands fa-medium
 
 footer_privacy_terms_link: /privacy-terms
