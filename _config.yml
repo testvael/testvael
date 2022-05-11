@@ -51,17 +51,17 @@ footer_links:
   - title: Legal
     content:
       - text: Terms of Use
-        link: ../legal/a.pdf
+        link: ../legal/ELYT.Terms_of_Use.pdf
       - text: Privacy Policy
-        link: ../legal/a.pdf
+        link: ../legal/ELYT.Privacy_Policy.pdf
       - text: Cookie Policy
-        link: ../legal/a.pdf
+        link: ../legal/ELYT.Cookies_Policy.pdf
       - text: Prohibition of Use
-        link: ../legal/a.pdf
+        link: ../legal/ELYT.Prohibition_Of_Use.pdf
       - text: E. C. D. Form
-        link: ../legal/a.pdf
+        link: ../legal/ELYT.ECDF.pdf
       - text: Legal Disclaimer
-        link: ../legal/a.pdf
+        link: ../legal/ELYT.Legal_Disclaimer.pdf
   - title: Join the Community
     content:
       - text: Discord
