@@ -6,7 +6,7 @@ lang-ref: faq
 permalink: /faq/
 ---
 
-**ELYT Frequently Asked Questions / Update: 09.05.2022**
+**ELYT Frequently Asked Questions / Update: 01.06.2022**
 
 **What is ELYT?**<br>
 ELYT is a new generation of earning, customer loyalty and marketing platform. ELYT creates a connection between Influencer, Users and Brands. ELYT utilizes some Web3 technologies with a  unique approach and uses NFTs.
