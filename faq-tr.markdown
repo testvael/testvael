@@ -8,10 +8,10 @@ permalink: /tr/faq/
 
 **ELYT Sıkça Sorulan Sorular / Güncelleme: 09.05.2022**
 
-**ELYT nedir?**
+**ELYT nedir?**<br>
 ELYT, yeni nesil bir kazanım, kullanıcı sadakati ve pazarlama platformudur. NFT’leri kullanarak Influencer, Kullanıcılar ve Markalar arasında bir ağ oluşturur. Özgün yapısı ile Web3 teknolojilerinden faydalanır ve NFT'leri kullanır.
 
-**ELYT’i farklı kılan nedir?**
+**ELYT’i farklı kılan nedir?**  
 ELYT, özgün iş modeli ile NFT’lerin zaman için değer kaybı problemini çözer. Aynı zamanda bir kripto cüzdan sahibi olmayan kullanıcıların dahi sosyal medya hesapları ile sisteme bağlanarak NFT sahibi olmasını ve bu NFT’ler ile sistem üzerinde izin verilen işlemleri gerçekleştirmesini mümkün kılar. Bu özgün yaklaşım ELYT'i Web2 ile Web3 arasında doğal bir köprüye olarak konumlandırır.
 
 **ELYT üzerinde hesap nasıl açılır?**
