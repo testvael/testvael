@@ -6,7 +6,7 @@ lang-ref: faq
 permalink: /tr/faq/
 ---
 
-**ELYT Sıkça Sorulan Sorular / Güncelleme: 09.05.2022**
+**ELYT Sıkça Sorulan Sorular / Güncelleme: 01.06.2022**
 
 **ELYT nedir?**<br>
 ELYT, yeni nesil bir kazanım, kullanıcı sadakati ve pazarlama platformudur. NFT’leri kullanarak Influencer, Kullanıcılar ve Markalar arasında bir ağ oluşturur. Özgün yapısı ile Web3 teknolojilerinden faydalanır ve NFT'leri kullanır.
@@ -15,7 +15,7 @@ ELYT, yeni nesil bir kazanım, kullanıcı sadakati ve pazarlama platformudur. N
 ELYT, özgün iş modeli ile NFT’lerin zaman için değer kaybı problemini çözer. Aynı zamanda bir kripto cüzdan sahibi olmayan kullanıcıların dahi sosyal medya hesapları ile sisteme bağlanarak NFT sahibi olmasını ve bu NFT’ler ile sistem üzerinde izin verilen işlemleri gerçekleştirmesini mümkün kılar. Bu özgün yaklaşım ELYT'i Web2 ile Web3 arasında doğal bir köprüye olarak konumlandırır.
 
 **ELYT üzerinde hesap nasıl açılır?**<br>
-ELYT hesabı açmak için farklı seçenekler sunulmaktadır. Twitter, Twitch, Telegram, Discord, E-posta veya Mobil telefon numarası seçeneklerinden birisini kullanarak ELYT’e bağlanabilirsiniz. Aynı zamanda [Metamask](https://metamask.io/) hesabınız ile de ELYT’e bağlanmak ve bir profil oluşturmak mümkündür.
+ELYT hesabı açmak için farklı seçenekler sunulmaktadır. Twitter, Twitch, Telegram, Discord, Facebook, E-posta veya Mobil telefon numarası seçeneklerinden birisini kullanarak ELYT’e bağlanabilirsiniz. Aynı zamanda [Metamask](https://metamask.io/) hesabınız ile de ELYT’e bağlanmak ve bir profil oluşturmak mümkündür.
 
 **ELYT hesabıma diğer sosyal medya / Metamask hesaplarımı nasıl tanımlarım?**<br>
 ELYT hesabınızı herhangi bir bağlantı seçeneği ile oluşturduktan sonra hesap yönetim sayfanızın altında yer alan [Sosyal Medya Hesaplarım](https://elytnet/profile/social-accounts) bölümünü kullanarak diğer hesaplarınızı tanımlayabilirsiniz.
