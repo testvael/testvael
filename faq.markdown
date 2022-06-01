@@ -141,17 +141,17 @@ ELYT stores the information you share on your profile page and information about
 You should ensure that you have complete control over your social media accounts, e-mail , mobile phone number and Metamask account. For NFT and AVAX withdrawals, ELYT uses two-factor authentication (2FA), but if your social media accounts or Metamask wallet account that you use to connect to ELYT are compromised in any way, malicious people may gain access to your ELYT account. Similarly, if malicious individuals gain access to your 2FA methods, they will be able to withdraw your assets from the platform. Users are responsible for safeguarding their accounts and 2FA tools.
 
 <details>
-  <summary><h4>Will ELYT Platform offer a Token?</h4></summary>
+  <summary><strong>Will ELYT Platform offer a Token?</strong></summary>
 In the future, we will share details about the ELYT Token structure, economy and utilization. 
 </details>
 
 <details>
-  <summary><h3>Will ELYT make an AirDrop?</h3></summary>
+  <summary><b>Will ELYT make an AirDrop?</b></summary>
 Why not? If we were you, we would create a complete profile and try to do as many transactions as possible ;)
 </details>
 
 <details>
-  <summary><h2>How can I get in touch with ELYT Platform?</h2></summary>
+  <summary><b>How can I get in touch with ELYT Platform?</b></summary>
 You can contact us with the forms at the footer section of our site, and share your questions, suggestions and problems with us.
 </details>
 
