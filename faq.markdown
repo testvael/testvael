@@ -11,13 +11,13 @@ permalink: /faq/
 <details>
   <summary><b>What is ELYT?</b></summary>
 ELYT is a new generation of earning, customer loyalty and marketing platform. ELYT creates a connection between Influencer, Users and Brands. ELYT utilizes some Web3 technologies with a  unique approach and uses NFTs.
-</details>
-<br>
+</details><br>
+
 <details>
   <summary><b>What makes ELYT different?</b></summary>
 With a distinctive business model, ELYT solves the problem of a falling floor price of NFTs. In addition, ELYT allows any user to create a profile account without requiring a cryptocurrency wallet. Users can acquire NFTs and conduct transactions on ELYT. This innovative method, ELYT, builds a bridge between Web2 and Web3.
 </details>
-
+  
 <details>
   <summary><b>How to open an account on ELYT?</b></summary>
 There are multiple ways to open an ELYT account. You can connect to ELYT with one of your recent accounts, such as Twitter, Twitch, Telegram, Facebook, Discord, your email address, or your mobile phone number. You can also connect to ELYT with your [Metamask](https://metamask.io) account and create a profile.
