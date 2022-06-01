@@ -109,7 +109,7 @@ You can see all your wallet activities by entering the [My Logs] (https://elyt.n
 </details>
 
 <details>
-  <summary><b>How long does it take to deposit and withdraw ELYT AVAX?**<br>
+  <summary><b>How long does it take to deposit and withdraw ELYT AVAX?</b></summary>
 ELYT AVAX deposits and withdrawals take less than a minute.
 </details>
 
