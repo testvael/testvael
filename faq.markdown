@@ -5,18 +5,20 @@ lang: en
 lang-ref: faq
 permalink: /faq/
 ---
-
+<style>
+      details {
+    margin-bottom: 5px;
+}
+</style>
 **ELYT Frequently Asked Questions / Update: 01.06.2022**
 
 <details>
-  <summary><b>What is ELYT?</b></summary>
-  
+  <summary><b>What is ELYT?</b></summary> 
 ELYT is a new generation of earning, customer loyalty and marketing platform. ELYT creates a connection between Influencer, Users and Brands. ELYT utilizes some Web3 technologies with a  unique approach and uses NFTs.
 </details>
 
 <details>
   <summary><b>What makes ELYT different?</b></summary>
-  
 With a distinctive business model, ELYT solves the problem of a falling floor price of NFTs. In addition, ELYT allows any user to create a profile account without requiring a cryptocurrency wallet. Users can acquire NFTs and conduct transactions on ELYT. This innovative method, ELYT, builds a bridge between Web2 and Web3.
 </details>
   
