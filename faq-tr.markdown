@@ -7,7 +7,7 @@ permalink: /tr/faq/
 ---
 <style>
       details {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 </style>
 **ELYT Sıkça Sorulan Sorular / Güncelleme: 01.06.2022**
