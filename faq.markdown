@@ -146,5 +146,9 @@ In the future, we will share details about the ELYT Token structure, economy and
 **Will ELYT make an AirDrop?**<br>
 Why not? If we were you, we would create a complete profile and try to do as many transactions as possible ;)
 
-**How can I get in touch with ELYT Platform?**
-You can contact us with the forms at the footer section of our site, and share your questions, suggestions and problems with us. 
+<details>
+<summary>**How can I get in touch with ELYT Platform?**</summary>
+You can contact us with the forms at the footer section of our site, and share your questions, suggestions and problems with us.
+</details>
+
+
