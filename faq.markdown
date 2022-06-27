@@ -175,13 +175,13 @@ ELYT provides a viable business model for NFTs. The limited number of NFTs will 
 </details>
 
 <details>
-  <summary><b>What does NFT Mining mean?</b></summary>
-ELYT NFTs are created in NFT standards but securely stored on a centralized structure. Users must perform Mining in order to migrate an NFT to the blockchain network. To mint, your Metamask wallet must be connected to the ELYT platform and your ELYT wallet balance must be at least 0.1 AVAX. The corresponding NFT is created on the Avalanche Blockchain network after minting and can be withdrawn to your Metamask wallet.
+  <summary><b>What does NFT Minting mean?</b></summary>
+ELYT NFTs are created in NFT standards but securely stored on a centralized structure. Users must perform Minting in order to migrate an NFT to the blockchain network. To mint, your Metamask wallet must be connected to the ELYT platform and your ELYT wallet balance must be at least 0.1 AVAX. The corresponding NFT is created on the Avalanche Blockchain network after minting and can be withdrawn to your Metamask wallet.
 </details>
 
 <details>
   <summary><b>Why do I need AVAX on my account to Mint NFT?</b></summary>
-For on-chain transactions, ELYT currently utilizes the Avalanche Blockchain Network. Every transaction that occurs here has a cost. As a result, an NFT Mining transaction incurs a fee of 0.01 AVAX, which is deducted from the account of the user who is minting the NFT.
+For on-chain transactions, ELYT currently utilizes the Avalanche Blockchain Network. Every transaction that occurs here has a cost. As a result, an NFT Minting transaction incurs a fee of 0.01 AVAX, which is deducted from the account of the user who is minting the NFT.
 </details>
 
 <details>
