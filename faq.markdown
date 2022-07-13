@@ -10,7 +10,7 @@ permalink: /faq/
     margin-bottom: 10px;
 }
 </style>
-**ELYT Frequently Asked Questions / Update: 01.06.2022**
+**ELYT Frequently Asked Questions / Update: 13.07.2022**
 
 <details>
   <summary><b>What is ELYT?</b></summary> 
@@ -35,6 +35,11 @@ After creating your ELYT account with any option, you can define your other acco
 <details>
   <summary><b>How can I edit my ELYT Profile?</b></summary>
 After logging into your ELYT account, you can define your account details by using the [Profile](https://elyt.net/profile/me) section at the bottom of your account management page.
+</details>
+
+<details>
+   <summary><b>I accidentally created different profiles with different connection methods. How can I fix this?</b></summary>
+ELYT provides several options for creating a profile. If you have created multiple profiles using different methods and want to consolidate these methods into a single main account, please specify a main profile account. Then, login to the profile you want to unlink your connection method. On the My Social Media Accounts page, connect a new Metamask account to this profile, and disconnect the other connection method. You can now link the removed connection method to your main profile. The NFTs from the disconnected profile will not be migrated; you must manually transfer these NFTs to the other account.
 </details>
 
 <details>
@@ -74,6 +79,11 @@ Serial Codes are distributed at a variety of events, live broadcasts, and via va
 <details>
   <summary><b>How can I find out which Twitch or Youtube channels earn free NFT?</b></summary>
 In the Explore section under ELYT, you can view all relevant free NFTs on ELYT by ticking Free NFTs in the left hand filter or directly using [this link](https://elyt.net/explore?free=true).
+</details>
+
+<details>
+   <summary><b>Why can't I get free NFT Packs by Influencers</b></summary>
+To receive some free NFT Packages from some Influencers, you must be a paid subscriber to those Influencers' Twitch or Youtube channels. Influencers only give away free NFT Packages to their followers who are paid subscribers to the relevant media channel. Please make certain that you meet this requirement. The "Get Free" buttons and descriptions of such packages will be updated as soon as possible to be more informative for our users.
 </details>
 
 <details>
@@ -197,6 +207,11 @@ If you are connected to ELYT with the Metamask wallet containing the relevant NF
 <details>
   <summary><b>Why do I get an error when transferring an NFT onto ELYT?</b></summary>
 On ELYT, NFT transfers are only possible between addresses on the system. If the recipient address to which you want to transfer NFT does not belong to an ELYT account, the transfer will fail. To send NFT to addresses other than ELYT, first mint the relevant NFT, withdraw it to your Metamask wallet, and then send it using the traditional method.
+</details>
+
+<details>
+   <summary><b>How can I transfer an ELYT NFT to another ELYT user on the ELYT Platform?</b></summary>
+You must enter the wallet address of the ELYT Profile of the user to whom you wish to transfer the NFT. After logging into a profile on ELYT, the wallet address of that profile can be found on My Wallet page by clicking on DESPOSIT button. You can transfer any NFT to this user by going to the page of the NFT you want to send, you should use the ELYT Wallet address with the Transfer function of that NFT.
 </details>
 
 <details>
