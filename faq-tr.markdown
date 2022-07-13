@@ -10,7 +10,7 @@ permalink: /tr/faq/
     margin-bottom: 10px;
 }
 </style>
-**ELYT Sıkça Sorulan Sorular / Güncelleme: 01.06.2022**
+**ELYT Sıkça Sorulan Sorular / Güncelleme: 13.07.2022**
 
 <details>
   <summary><b>ELYT nedir?</b></summary> 
@@ -35,6 +35,11 @@ ELYT hesabınızı herhangi bir bağlantı seçeneği ile oluşturduktan sonra h
 <details>
   <summary><b>ELYT Profilimi nasıl düzenleyebilirim?</b></summary> 
 ELYT hesabınıza giriş yatıktan sonra hesap yönetim sayfanızın altında yer alan [Profilim](https://elyt.net/profile/me) bölümünü kullanarak hesap detaylarınızı tanımlayabilirsiniz.
+</details>
+
+<details>
+  <summary><b>Yanlışlıkla farklı bağlantı yöntemleri ile farklı profiller oluşturdum. Nasıl düzeltebilirim?</b></summary> 
+ELYT üzerinde bir profil oluşturmak için farklı seçenekler sunulmaktadır. Eğer farklı yöntemler ile birden fazla profil oluşturduysanız ve bu yöntemleri bir ana hesap altında toplamak istiyorsanız lütfen bir ana profil hesabı belirleyin. Daha sonra bağlantısını kaldırmak istediğiniz profile girerek yeni bir Metamask bağlantısı saplayın ve diğer bağlantıyı Sosyal Medya Hesaplarım sayfasından kaldırın. Artık kaldırdığınız bağlantıyı ana profilinize bağlayabilirsiniz. Bu işlem bağlantısı kaldırılan profildeki NFT'leri taşımayacaktır, bu NFT'leri manuel olarak diğer hesaba transfer etmelisiniz.
 </details>
 
 <details>
@@ -74,6 +79,11 @@ Seri Kodları çeşitli etkinliklerde, canlı yayınlarda veya farklı platforml
 <details>
   <summary><b>Hangi Twitch veya Youtube kanalların ücretsiz NFT kazandırdığını nasıl bulabilirim?</b></summary> 
 ELYT altında yer alan Keşfet bölümünde, sol taraftaki filtreden Ücretsiz NFT’leri işaretleyerek veya doğrudan [bu linki](https://elyt.net/explore?free=true) kullanarak ELYT üzerindeki tüm ilgili ücretsiz NFT’leri görüntüleyebilirsiniz.
+</details>
+
+<details>
+  <summary><b>BazıInfluencer'ların ücretsiz NFT Paketlerini neden alamıyorum</b></summary> 
+Youtube ve bazı Twitch NFT paketlerini alabilmek için bu kanallara ücretli abone olmanzı gerekmektedir. Influencer ilgili ücretsiz NFT Paketlerini sadece ilgili yayın kanalına ücretli abone olan takipçilerine hediye olarak dağıtmaktadır. Lütfen bu şartı yerine getirdiğinizden emin olunuz. En kısa sürede bu tarz paketlerin "Ücretsiz Al" butonları ve açıklamaları kullanıcılarımız için daha bilgilendirici şekilde güncellenecektir.
 </details>
 
 <details>
@@ -196,7 +206,12 @@ Blockchain ekosisteminin doğası gereği bir kullanıcı sahip olduğu NFT’ni
 
 <details>
   <summary><b>ELYT üzerine bir NFT transferi yaparken neden hata alıyorum?</b></summary> 
-ELYT üzerinde NFT trasnferi sadece sistemin kendi üzerindeki adresler arasında yapılabilir. Eğer NFT transfer etmek istediğiniz alıcı adres, ELYT üzerinde bir hesaba ait değilse NFT transferi gerçekleşmez. ELYT dışındaki adreslere NFT transfer etmek için önce ilgili NFT'yi Mintlemeniz, Metamask cüzdanınıza çekmeniz ve geleneksel yöntem ile göndermeniz gerekmektedir.
+ELYT üzerinde NFT transferi sadece sistemin kendi üzerindeki adresler arasında yapılabilir. Eğer NFT transfer etmek istediğiniz alıcı adres, ELYT üzerinde bir hesaba ait değilse NFT transferi gerçekleşmez. ELYT dışındaki adreslere NFT transfer etmek için önce ilgili NFT'yi Mintlemeniz, Metamask cüzdanınıza çekmeniz ve geleneksel yöntem ile göndermeniz gerekmektedir.
+</details>
+
+<details>
+  <summary><b>ELYT üzerine bir NFT^yi farklı bir ELYT kullancısına nasıl transfer ederim?</b></summary> 
+Transfer etmek istediğiniz NFT'yi göndereceğiniz kullanıcının ELYT Profiline ait cüzdan adresini öğdenmeniz gierekiyor. Bu kullanıcı ELYT üzerindeki cüzdan adresiniz profiline giriş yaptıktan sonra Cüzdanım bölümü altındaki YATIR butonuna basarak öğrenebilir. Bu adrese göndermek istediğiniz NFT'nin sayfasına girerek, sahip olduğunuz NFT yanında yer alan Transfer butonuna basarak ve ilgili adresi girerek gönderebilirsiniz.
 </details>
 
 <details>
