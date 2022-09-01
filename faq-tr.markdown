@@ -64,12 +64,13 @@ ELYT ana menüsünde bulunan <a href="https://elyt.net/explore" target="_blank">
 <details>
   <summary><b>ELYT üzerinde nasıl NFT sahibi olabilirim?</b></summary> 
 ELYT üzerinde NFT sahibi olmak için çeşitli yöntemler bulunmaktadır;
-
-- Çeşitli Twitch kanallarını takip ederek ücretsiz şekilde</li>
-- Çeşitli Twitch kanallarına abone olarak ücretsiz şekilde</li>
-- Çeşitli Youtube kanallarına abone olarak ücretsiz şekilde</li>
-- Seri Kodu girerek ücretsiz şekilde</li>
-- AVAX ile ödeme yaparak ücretli şekilde</li>
+<ul>
+    <li>Çeşitli Twitch kanallarını takip ederek ücretsiz şekilde</li>
+    <li>Çeşitli Twitch kanallarına abone olarak ücretsiz şekilde</li>
+    <li>Çeşitli Youtube kanallarına abone olarak ücretsiz şekilde</li>
+    <li>Seri Kodu girerek ücretsiz şekilde</li>
+    <li>AVAX ile ödeme yaparak ücretli şekilde</li>
+</ul>
 </details>
 
 <details>
@@ -91,8 +92,10 @@ Youtube ve bazı Twitch NFT paketlerini alabilmek için bu kanallara ücretli ab
   <summary><b>AVAX ile satılan bir NFT satın almak için ne yapmalıyım?</b></summary> 
 ELYT Profil sayfanız altında yer alan <a href="https://elyt.net/profile/wallet" target="_blank">Cüzdanım</a> bölümüne girmelisiniz. Burada iki farklı seçenek ile platformdaki hesabınıza AVAX yatırabilirsiniz.
 
-- Metamask hesabınız bağladıysanız doğrudan transfer ederek
-- Deposit seçeneği ile herhangi bir Avalanche C-Chain adresinden gönderim yaparak.
+<ul>
+    <li>Metamask hesabınız bağladıysanız doğrudan transfer ederek</li>
+    <li>Deposit seçeneği ile herhangi bir Avalanche C-Chain adresinden gönderim yaparak.</li>
+</ul>
 </details>
 
 <details>
@@ -129,10 +132,12 @@ ELYT AVAX yatırma ve çekme işlemleri bir dakikanın altında gerçekleşmekte
   <summary><b>ELYT üzerinde aldığım NFT Desteleri ile ne yapabilirim?</b></summary> 
 ELYT üzerindeki tüm dijital varlıklar NFT standardında tasarlanmıştır. Satın aldığınız bir NFT Paketi için;
 
-- NFT Destenizi açarak içindeki kartları alabilirsiniz.
-- NFT Destenizi ELYT platformundaki başka bir adrese transfer edebilirsiniz.
-- NFT Destenizi AVAX ile satış için listeleyebilirsiniz
-- NFT Destenizi Mintleyebilirsiniz
+<ul>
+    <li>NFT Destenizi açarak içindeki kartları alabilirsiniz.</li>
+    <li>NFT Destenizi ELYT platformundaki başka bir adrese transfer edebilirsiniz.</li>
+    <li>NFT Destenizi AVAX ile satış için listeleyebilirsiniz</li>
+    <li>NFT Destenizi Mintleyebilirsiniz</li>
+</ul>
 </details>
 
 <details>
@@ -144,10 +149,12 @@ ELYT üzerindeki her bir NFT Destesi kendisine özgü yapıya sahiptir. Açılan
   <summary><b>ELYT üzerindeki NFT Kartlar ile neler yapabilirim?</b></summary> 
 ELYT üzerindeki tüm dijital varlıklar NFT standardında tasarlanmıştır. Sahip olduğunuz bir NFT Kart için;
 
-- NFT Kartınızı ELYT platformundaki başka bir adrese transfer edebilirsiniz.
-- NFT Kartınızı AVAX ile satış için listeleyebilirsiniz
-- NFT Kartınızı Mintleyebilirsiniz
-- NFT Kartınızı bir hediye almak için bir koleksiyon yaratmak için kullanabilirsiniz?
+<ul>
+    <li>NFT Kartınızı ELYT platformundaki başka bir adrese transfer edebilirsiniz.</li>
+    <li>NFT Kartınızı AVAX ile satış için listeleyebilirsiniz</li>
+    <li>NFT Kartınızı Mintleyebilirsiniz</li>
+    <li>NFT Kartınızı bir hediye almak için bir koleksiyon yaratmak için kullanabilirsiniz?</li>
+</ul>
 </details>
 
 <details>
@@ -170,13 +177,14 @@ Bir hediye almak için gerekli koleksiyonu tamamladıysanız ilgili hediye sayfa
 </details>
 
 <details>
-  <summary><b>ELYT üzerinde aldığım bir NFT Hediye ile neler yapabilirim?</b></summary> 
+  <summary><b>ELYT  üzerinde aldığım bir NFT Hediye ile neler yapabilirim?</b></summary> 
 ELYT üzerindeki tüm dijital varlıklar NFT standardında tasarlanmıştır. Sahip olduğunuz bir NFT Hediye için;
-
-- NFT Hediyenizi, dijital veya fiziksel hediyeye dönüştürebilirsiniz.
-- NFT Hediyenizi ELYT platformundaki başka bir adrese transfer edebilirsiniz.
-- NFT Hediyenizi AVAX ile satış için listeleyebilirsiniz
-- NFT Hediyenizi Mintleyebilirsiniz
+<ul>
+    <li>NFT Hediyenizi, dijital veya fiziksel hediyeye dönüştürebilirsiniz.</li>
+    <li>NFT Hediyenizi ELYT platformundaki başka bir adrese transfer edebilirsiniz.</li>
+    <li>NFT Hediyenizi AVAX ile satış için listeleyebilirsiniz</li>
+    <li>NFT Hediyenizi Mintleyebilirsiniz</li>
+</ul>
 </details>
 
 <details>

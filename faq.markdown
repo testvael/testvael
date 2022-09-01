@@ -64,12 +64,13 @@ You can explore all NFTs on the platform with the <a href="https://elyt.net/expl
 <details>
   <summary><b>How can I have NFT on ELYT?</b></summary>
 There are various methods to have NFT on ELYT;
-
-- Follow various Twitch channels to get free decks
-- Subscribe to various Twitch channels to get free decks
-- Subscribing to various Youtube channels to get free decks
-- Use Serial Codes to get free decks
-- Pay with AVAX to buy decks
+<ul>
+    <li>Follow various Twitch channels to get free decks</li>
+    <li>Subscribe to various Twitch channels to get free decks</li>
+    <li>Subscribing to various Youtube channels to get free decks</li>
+    <li>Use Serial Codes to get free decks</li>
+    <li>Pay with AVAX to buy decks</li>
+</ul>
 </details>
 
 <details>
@@ -90,8 +91,10 @@ To receive some free NFT Packages from some Influencers, you must be a paid subs
 <details>
   <summary><b>What should I do to purchase an NFT sold with AVAX?</b></summary>
 You must enter the <a href="https://elyt.net/profile/wallet" target="_blank">My Wallet</a> section under your ELYT Profile page. Here you can deposit AVAX to your account on the platform with two different options.
-- By transferring directly if you have linked your Metamask account
-- By sending from any Avalanche C-Chain address with the deposit option.
+<ul>
+    <li>By transferring directly if you have linked your Metamask account</li>
+    <li>By sending from any Avalanche C-Chain address with the deposit option.</li>
+</ul>
 </details>
 
 <details>
@@ -127,11 +130,12 @@ ELYT AVAX deposits and withdrawals take less than a minute.
 <details>
   <summary><b>What can I do with the NFT Decks I bought on ELYT?</b></summary>
 All digital assets on ELYT are designed in NFT standard. For an NFT Package you have purchased;
-
-- You can get the cards inside your NFT Deck by opening it.
-- You can transfer your NFT Deck to another address on the ELYT platform.
-- You can list your NFT Deck for sale with AVAX
-- You Can Mint Your NFT Deck
+<ul>
+    <li>You can get the cards inside your NFT Deck by opening it.</li>
+    <li>You can transfer your NFT Deck to another address on the ELYT platform.</li>
+    <li>You can list your NFT Deck for sale with AVAX</li>
+    <li>You Can Mint Your NFT Deck</li>
+</ul>
 </details>
 
 <details>
@@ -142,11 +146,12 @@ Each NFT Deck on ELYT has a distinct structure. An opened NFT Deck is burned (re
 <details>
   <summary><b>What can I do with NFT Cards on ELYT?</b></summary>
 All digital assets on ELYT are designed in NFT standard. For an NFT Card you have;
-
-- You can transfer your NFT Card to another address on the ELYT platform.
-- You can list your NFT Card for sale with AVAX
-- You Can Mint Your NFT Card
-- You can use your NFT Card to create a collection to buy a gift?
+<ul>
+    <li>You can transfer your NFT Card to another address on the ELYT platform.</li>
+    <li>You can list your NFT Card for sale with AVAX</li>
+    <li>You Can Mint Your NFT Card</li>
+    <li>You can use your NFT Card to create a collection to buy a gift?</li>
+</ul>
 </details>
 
 <details>
@@ -171,11 +176,12 @@ If you have completed the collection required to receive a gift, you will be not
 <details>
   <summary><b>What can I do with an NFT Gift I bought on ELYT?</b></summary>
 All digital assets on ELYT are designed in NFT standard. For an NFT Gift you have;
-
-- You can convert your NFT Gift into a digital or physical gift.
-- You can transfer your NFT Gift to another address on the ELYT platform.
-- You can list your NFT Gift for sale with AVAX
-- You Can Mint Your NFT Gift
+<ul>
+    <li>You can convert your NFT Gift into a digital or physical gift.</li>
+    <li>You can transfer your NFT Gift to another address on the ELYT platform.</li>
+    <li>You can list your NFT Gift for sale with AVAX</li>
+    <li>You Can Mint Your NFT Gift</li>
+</ul>
 </details>
 
 <details>
